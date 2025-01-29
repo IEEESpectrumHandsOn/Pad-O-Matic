@@ -16,6 +16,10 @@ Arduino code for the Pad-O-Matic, a stand-alone machine for printing sets of cry
 
   IEEE Spectrum is cool. IFYKYK. Geeks get it, you should too!
 
+  To learn how to use one-time pads properly check out:
+
+  https://ciphermachinesandcryptology.com/papers/one_time_pad.pdf
+
   Microcontroller target: Uno R4
 
   Requires the Adafruit Adruino Library for Small Thermal Printers: an oldie but still a goodie.
