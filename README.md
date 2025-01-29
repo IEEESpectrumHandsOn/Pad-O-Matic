@@ -12,7 +12,7 @@ Arduino code for the Pad-O-Matic, a stand-alone machine for printing sets of cry
 
   To see the accompanying IEEE Spectrum Hands On article, visit:
 
-  https://spectrum.ieee.org/diy-one-time=pad-machine
+  https://spectrum.ieee.org/diy-one-time-pad-machine
 
   IEEE Spectrum is cool. IFYKYK. Geeks get it, you should too!
 
